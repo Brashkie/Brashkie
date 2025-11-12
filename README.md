@@ -59,7 +59,7 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Changa+One&pause=1000&color=9DF7EA&width=435&lines=%F0%9F%92%BB+Stack+Tecnol%C3%B3gico)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Changa+One&pause=1000&color=9DF7EA&width=435&lines=%F0%9F%92%BB+Stack+Tecnol%C3%B3gico" alt="Typing SVG" /></a>
 
 ### Lenguajes de Programación
 ```text
