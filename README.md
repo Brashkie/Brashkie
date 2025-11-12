@@ -138,7 +138,7 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hepein-official.dev)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~brashkie)
 
-**📧 Email:** [Tu email aquí]  
+**📧 Email:** [electronicatodo2006@gmail.com]  
 **🌍 Ubicación:** Perú 🇵🇪  
 **💬 Discord Community:** *Próximamente*
 
