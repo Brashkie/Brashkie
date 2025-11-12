@@ -23,7 +23,7 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 
 ---
 
-## 🚀 Proyectos Destacados
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&pause=1000&color=3678F7&width=435&lines=%F0%9F%9A%80+Proyectos+Destacados" alt="Typing SVG" /></a>
 
 ### 🔹 [Ultra Parquet Converter](https://www.npmjs.com/package/ultra-parquet-converter)
 **Conversor universal de alto rendimiento para Big Data**
