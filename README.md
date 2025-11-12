@@ -31,6 +31,9 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
   <a href="https://github.com/Brashkie/tt-search">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=tt-search&theme=midnight-purple" alt="Tiktok Search"/>
   </a>
+  <a href="https://github.com/Brashkie/Avenix-Multi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=Avenix-Multi&theme=midnight-blue" alt="Tiktok Search"/>
+  </a>
 </p>
 
 ### 🔹 [Ultra Parquet Converter](https://www.npmjs.com/package/ultra-parquet-converter)
