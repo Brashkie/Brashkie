@@ -63,8 +63,8 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 
 ### Lenguajes de Programación
 ```text
-⭐ Expert:    Python, JavaScript/TypeScript, SQL
-🔥 Avanzado:  C++, Java, PHP, HTML/CSS
+⭐ Expert:    Python, JavaScript/TypeScript, SQL, PHP
+🔥 Avanzado:  C++, Java, HTML/CSS
 🌱 Learning:  Rust, Julia, F#, C#
 ```
 
@@ -81,13 +81,20 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 #### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Data Science & AI
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Arrow](https://img.shields.io/badge/Apache_Arrow-1B1B1F?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Parquet](https://img.shields.io/badge/Apache_Parquet-1B1B1F?style=for-the-badge&logo=apache&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+#### Creative Tools
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 #### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -138,7 +145,7 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hepein-official.dev)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~brashkie)
 
-**📧 Email:** [electronicatodo2006@gmail.com]  
+**📧 Email:** [Tu email aquí]  
 **🌍 Ubicación:** Perú 🇵🇪  
 **💬 Discord Community:** *Próximamente*
 
