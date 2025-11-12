@@ -26,18 +26,6 @@ Construido con **Node.js + Python + Apache Arrow**, combina velocidad, automatiz
 Framework de **Deep Learning de nueva generación**, hecho con **Julia + C++**, e integrado al ecosistema **NPM**.  
 Busca combinar la potencia científica con la simplicidad del desarrollo JavaScript.
 
-#### 🔹 Hepein Quantum ⚛️
-Lenguaje cuántico unificado que integra computación clásica y cuántica.  
-Diseñado para reducir el código, aumentar la velocidad y ofrecer un entorno universal para crear desde sistemas operativos  
-hasta inteligencia artificial avanzada.
-
-#### 🔹 Hepein Sentinel 🛡️
-Sistema de defensa digital ultrainteligente, capaz de detectar, reparar y eliminar amenazas en tiempo real.  
-Optimizado con **IA cuántica y redes neuronales profundas**.
-
-#### 🔹 Hepein Guardian 🌐
-Navegador creado con el núcleo de **Hepein Quantum**, enfocado en seguridad, privacidad y velocidad extrema.
-
 ---
 
 ### ⚙️ Stack Tecnológico
@@ -89,6 +77,31 @@ Navegador creado con el núcleo de **Hepein Quantum**, enfocado en seguridad, pr
 - 💼 [GitHub](https://github.com/Brashkie)
 - 🌐 [Hepein Oficial Website](https://hepein-official.dev) *(proyecto en construcción)*
 - 🧠 Discord Dev Community *(próximamente)*
+
+---
+
+## ⚙️ Tecnologías y Lenguajes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-20232A?style=for-the-badge&logo=databricks&logoColor=red"/>
+  <img src="https://img.shields.io/badge/CustomTkinter-2C2C32?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
