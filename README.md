@@ -24,6 +24,11 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=3678F7&multiline=true&width=435&lines=%F0%9F%9A%80+Proyectos+Destacados" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/Brashkie/ultra-parquet-converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=ultra-parquet-converter&theme=midnight-purple" alt="Ultra Parquet Converter"/>
+  </a>
+</p>
 ### 🔹 [Ultra Parquet Converter](https://www.npmjs.com/package/ultra-parquet-converter)
 **Conversor universal de alto rendimiento para Big Data**
 - Soporta múltiples formatos: CSV, XLSX, JSON, XML, TXT, LOG → Parquet
