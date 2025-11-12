@@ -8,7 +8,7 @@
 
 ### 🌍 Acerca de mí
 
-Soy un desarrollador peruano de 19 años apasionado por la innovación tecnológica.  
+Soy un desarrollador apasionado por la innovación tecnológica.  
 Me dedico a crear herramientas, frameworks y sistemas que simplifican el desarrollo, potencian la inteligencia artificial  
 y combinan la computación clásica con la cuántica.
 
