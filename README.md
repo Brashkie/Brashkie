@@ -114,7 +114,7 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=C015F7&multiline=true&width=435&lines=%F0%9F%93%8A+Estad%C3%ADsticas+de+GitHub)](https://git.io/typing-svg)
+##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=C015F7&multiline=true&width=435&lines=%F0%9F%93%8A+Estad%C3%ADsticas+de+GitHub)](https://git.io/typing-svg)
 <img src="https://github-readme-stats.vercel.app/api?username=Brashkie&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brashkie&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
 
