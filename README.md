@@ -42,19 +42,6 @@ Busca combinar la potencia científica con la simplicidad del desarrollo JavaScr
 
 ---
 
-### 🏗️ Hepein Oficial Ecosystem
-
-| Proyecto | Descripción | Estado |
-|-----------|--------------|---------|
-| ⚛️ **Hepein Quantum** | Lenguaje cuántico unificado | 🔬 En desarrollo |
-| 🛡️ **Hepein Sentinel** | Defensa digital cuántica | 🚧 Beta |
-| 🌐 **Hepein Guardian** | Navegador seguro y optimizado | 🧩 Planificado |
-| ☁️ **Hepein Cloud / AI** | Plataforma de IA y almacenamiento | ⚙️ Prototipo |
-| 🧮 **Hepein Quantum Converter** | Conversor avanzado de datos | ✅ Publicado |
-| 🧠 **NeuroForge** | Framework de deep learning híbrido | 🚀 Activo |
-
----
-
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
