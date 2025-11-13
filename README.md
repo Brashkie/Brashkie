@@ -68,9 +68,6 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 </p>
 <div style="font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; max-width:720px; margin:24px auto; padding:18px; border-radius:12px; background:linear-gradient(180deg, #071020 0%, #0b1722 100%); color:#e6f7fb; box-shadow: 0 6px 30px rgba(0,0,0,0.45);">
   <div style="text-align:center; margin-bottom:12px;">
-    <img src="https://github.com/Brashkie/module/raw/main/download/line/animated/animated-line-000001.gif"
-         alt="line" style="width:60%; height:8px; display:block; margin:0 auto 12px;" />
-    <h2 style="margin:0; font-weight:700; letter-spacing:0.4px; color:#00e9f7;">
       Hepein Oficial Ecosystem
     </h2>
   </div>
