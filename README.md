@@ -66,10 +66,37 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
   <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="50%" height="8px"><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=00E9F7&center=true&vCenter=true&width=435&lines=%F0%92%81%88+Hepein+Oficial+Ecosystem+%F0%92%81%88" alt="Typing SVG" /></a>
 </p>
-###
-> *Hepein Oficial es una plataforma multi-servicio en desarrollo que incluye:*<br>
-- **Hepein APIs:** Conjunto de APIs de automatización y análisis.<br>
-- **Hepein Tools:** Colección de herramientas web.
+<div style="font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; max-width:720px; margin:24px auto; padding:18px; border-radius:12px; background:linear-gradient(180deg, #071020 0%, #0b1722 100%); color:#e6f7fb; box-shadow: 0 6px 30px rgba(0,0,0,0.45);">
+  <div style="text-align:center; margin-bottom:12px;">
+    <img src="https://github.com/Brashkie/module/raw/main/download/line/animated/animated-line-000001.gif"
+         alt="line" style="width:60%; height:8px; display:block; margin:0 auto 12px;" />
+    <h2 style="margin:0; font-weight:700; letter-spacing:0.4px; color:#00e9f7;">
+      Hepein Oficial Ecosystem
+    </h2>
+  </div>
+
+  <p style="margin:14px 0; font-style:italic; color:#d8f6fb; line-height:1.5;">
+    &gt; <strong style="font-style:normal; color:#ffffff;">Hepein Oficial</strong> es una plataforma multi-servicio en desarrollo que incluye:
+  </p>
+
+  <ul style="margin:8px 0 0 1.2rem; padding:0; list-style: none; color:#d8f6fb; line-height:1.6;">
+    <li style="margin-bottom:8px;">
+      <span style="display:inline-block; width:8px; height:8px; background:#00e9f7; border-radius:50%; margin-right:10px; vertical-align:middle;"></span>
+      <strong>Hepein APIs:</strong>
+      <span style="color:#bfeff5;">Conjunto de APIs de automatización y análisis.</span>
+    </li>
+
+    <li style="margin-bottom:8px;">
+      <span style="display:inline-block; width:8px; height:8px; background:#00e9f7; border-radius:50%; margin-right:10px; vertical-align:middle;"></span>
+      <strong>Hepein Tools:</strong>
+      <span style="color:#bfeff5;">Colección de herramientas web.</span>
+    </li>
+  </ul>
+
+  <div style="text-align:center; margin-top:16px;">
+    <small style="color:#98e7ee;">Hepein Oficial • Innovación · Rendimiento · Conectividad</small>
+  </div>
+</div>
 
 ---
 
