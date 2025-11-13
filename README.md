@@ -62,18 +62,13 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 - Integración perfecta con el ecosistema **NPM**
 - Combina potencia científica con simplicidad de desarrollo
 
-### 🔹 Hepein Oficial
-**Ecosistema tecnológico integral**
-- APIs multimedia con 4,000+ elementos
-- Bots de WhatsApp con arquitectura avanzada (Baileys)
-- Plataformas web y sistemas de automatización
-- *Próximamente en [hepein-official.dev](https://hepein-official.dev)*
-
-### 🔹 Sistemas de ML para Manufactura
-**Predicción de tiempos de producción en óptica**
-- Modelos de Machine Learning y Deep Learning
-- Dashboards interactivos para seguimiento de producción
-- Interfaces GUI personalizadas con CustomTkinter
+<p align="center">
+  <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="50%" height="8px"><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=00E9F7&center=true&vCenter=true&width=435&lines=%F0%92%81%88+Hepein+Oficial+Ecosystem+%F0%92%81%88" alt="Typing SVG" /></a>
+</p>
+> Hepein Oficial es una plataforma multi-servicio en desarrollo que incluye:
+- **Hepein APIs:** Conjunto de APIs de automatización y análisis.
+- **Hepein Tools:** Colección de herramientas web.
 
 ---
 
