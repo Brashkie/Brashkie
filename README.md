@@ -85,7 +85,6 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
       <strong>Hepein APIs:</strong>
       <span style="color:#bfeff5;">Conjunto de APIs de automatización y análisis.</span>
     </li>
-
     <li style="margin-bottom:8px;">
       <span style="display:inline-block; width:8px; height:8px; background:#00e9f7; border-radius:50%; margin-right:10px; vertical-align:middle;"></span>
       <strong>Hepein Tools:</strong>
