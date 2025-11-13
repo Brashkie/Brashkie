@@ -29,7 +29,7 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=ultra-parquet-converter&theme=midnight-purple" alt="Ultra Parquet Converter"/>
   </a>
   <a href="https://github.com/Brashkie/tt-search">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=tt-search&theme=midnight-purple" alt="Tiktok Search"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=tt-search&theme=algolia" alt="Tiktok Search"/>
   </a>
   <a href="https://github.com/Brashkie/Avenix-Multi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=Avenix-Multi&theme=tokyonight" alt="Avenix Multi"/>
