@@ -179,7 +179,7 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 
 ---
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
 - [ ] Lanzar **Hepein Official Website** completo
 - [ ] Publicar **NeuroForge v1.0**
