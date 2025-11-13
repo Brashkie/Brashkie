@@ -24,8 +24,8 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 ---
 
 <p align="center">
+  <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="50%" height="8px">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=3678F7&multiline=true&width=435&lines=%F0%9F%9A%80+Proyectos+Destacados" alt="Typing SVG" /></a>
-  <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="100%" height="10px">
 </p>
 <p align="center">
   <a href="https://github.com/Brashkie/ultra-parquet-converter">
