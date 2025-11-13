@@ -34,6 +34,9 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
   <a href="https://github.com/Brashkie/Avenix-Multi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=Avenix-Multi&theme=ambient_gradient" alt="Avenix Multi"/>
   </a>
+  <a href="https://github.com/Brashkie/module">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=module&theme=shadow_red" alt="Module"/>
+  </a>
 </p>
 
 ### 🔹 [Ultra Parquet Converter](https://www.npmjs.com/package/ultra-parquet-converter)
