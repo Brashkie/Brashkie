@@ -65,9 +65,9 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
 <p align="center">
   <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="50%" height="8px"><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=00E9F7&center=true&vCenter=true&width=435&lines=%F0%92%81%88+Hepein+Oficial+Ecosystem+%F0%92%81%88" alt="Typing SVG" /></a>
-</p>
-> *Hepein Oficial es una plataforma multi-servicio en desarrollo que incluye:*
-- **Hepein APIs:** Conjunto de APIs de automatización y análisis.
+</p><br>
+> *Hepein Oficial es una plataforma multi-servicio en desarrollo que incluye:*<br>
+- **Hepein APIs:** Conjunto de APIs de automatización y análisis.<br>
 - **Hepein Tools:** Colección de herramientas web.
 
 ---
