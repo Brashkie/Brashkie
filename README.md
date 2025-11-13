@@ -35,7 +35,10 @@ Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Ana
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=Avenix-Multi&theme=ambient_gradient" alt="Avenix Multi"/>
   </a>
   <a href="https://github.com/Brashkie/module">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=module&theme=shadow_red" alt="Module"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=module&theme=chartreuse-dark" alt="Module"/>
+  </a>
+  <a href="https://github.com/Brashkie/HepeinBot-PRO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=HepeinBot-PRO&theme=holi" alt="HepeinBot-PRO"/>
   </a>
 </p>
 
