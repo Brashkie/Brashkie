@@ -15,7 +15,7 @@
 
 Soy un **desarrollador apasionado por la innovación tecnológica** con más de **3 años de experiencia** en programación. Me especializo en crear herramientas, frameworks y sistemas que simplifican el desarrollo, potencian la inteligencia artificial y democratizan el acceso a tecnologías avanzadas.
 
-Actualmente estudiante de **Ciencias de la Computación en SENATI** y **Data Analyst**, dedico mi tiempo a construir tecnología que **transforma el futuro** — rápida, accesible y universal.
+Actualmente estudiante de **Ingenieria Softtware en SENATI** y **Data Analyst**, dedico mi tiempo a construir tecnología que **transforma el futuro** — rápida, accesible y universal.
 
 ### 🎯 Mi Visión
 
