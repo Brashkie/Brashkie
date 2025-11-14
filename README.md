@@ -1,4 +1,4 @@
-<img width=100% src="https://github.com/Brashkie/module/blob/main/download/banner/animated/000020.gif"/>
+<img width=100% height=auto src="https://github.com/Brashkie/module/blob/main/download/banner/animated/000022.gif"/>
 <div align="center">
 
 # 👋 Hola, soy **Brashkie (Moisés Yaurivilca)**
