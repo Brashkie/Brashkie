@@ -219,3 +219,5 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 ![Profile Views](https://komarev.com/ghpvc/?username=Brashkie&color=blueviolet&style=for-the-badge)
 
 </div>
+
+<img width=100% height=auto src="https://github.com/Brashkie/module/blob/main/download/banner/animated/000058.gif"/>
