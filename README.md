@@ -1,7 +1,7 @@
 <img width=100% height=50px src="https://github.com/Brashkie/module/blob/main/download/banner/animated/000022.gif"/>
 <div align="center">
 
-# 👋 Hola, soy **Brashkie (Moisés Yaurivilca)**
+# 👋 Hola, soy **Brashkie**
 
 ### 🚀 Fundador de Hepein Oficial | 🧠 Innovador en IA | 💻 Desarrollador Full-Stack
 
