@@ -183,7 +183,7 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~brashkie)
 
 **📧 Email:** [fabianoarjunken@gmail.com]  
-**𒁈 Perfil:** [https://gravatar.com/moisesborus]
+**𒁈 Perfil:** [https://gravatar.com/moisesborus]  
 **🌍 Ubicación:** Perú 🇵🇪  
 **💬 Discord Community:** *Próximamente*
 
