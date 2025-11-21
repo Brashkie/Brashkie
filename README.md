@@ -42,6 +42,12 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
   <a href="https://github.com/Brashkie/HepeinBot-PRO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=HepeinBot-PRO&theme=holi" alt="HepeinBot-PRO"/>
   </a>
+  <a href="https://github.com/Brashkie/ultra-scraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=ultra-scraper&theme=great-gatsby" alt="ultra-scraper"/>
+  </a>
+  <a href="https://github.com/Brashkie/HepeinBaileys">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=HepeinBaileys&theme=apprentice" alt="HepeinBaileys"/>
+  </a>
 </p>
 
 ### 🔹 [Ultra Parquet Converter](https://www.npmjs.com/package/ultra-parquet-converter)
