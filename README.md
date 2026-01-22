@@ -107,9 +107,9 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 
 ### Lenguajes de Programación
 ```text
-⭐ Expert:    Python, JavaScript/TypeScript, SQL, PHP
-🔥 Avanzado:  C++, Java, HTML/CSS
-🌱 Learning:  Rust, Julia, F#, C#
+⭐ Expert:    Python, JavaScript/TypeScript
+🔥 Avanzado:  HTML/CSS, SQL, PHP, React
+🌱 Learning:  Rust, Julia, F#, C#, C++
 ```
 
 ### Tecnologías & Frameworks
@@ -171,7 +171,7 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 
 ## 🏆 Logros y Experiencia
 
-- 🎓 Estudiante de **Ciencias de la Computación** en SENATI
+- 🎓 Estudiante de **Ingenieria Software con IA** en SENATI
 - 💼 **Data Analyst** con experiencia en análisis de producción industrial
 - 📦 Creador de múltiples **paquetes NPM** públicos
 - 🤖 Desarrollador de bots y sistemas de automatización
