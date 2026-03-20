@@ -147,6 +147,7 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_APIs-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![ChartDB](https://img.shields.io/badge/ChartDB-1B1B2F?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
