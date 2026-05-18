@@ -213,7 +213,7 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 
 ## Mis lenguajes usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brashkie&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brashkie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
