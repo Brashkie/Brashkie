@@ -211,6 +211,11 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 
 ---
 
+### Mis lenguajes más usados
+![Top Langs](https://vercel.app)
+
+---
+
 ## 🎯 Objetivos 2026
 
 - [ ] Lanzar **Hepein Official Website** completo
