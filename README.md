@@ -211,6 +211,12 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 
 ---
 
+## Mis lenguajes usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brashkie&layout=compact)
+
+---
+
 ## 🎯 Objetivos 2026
 
 - [ ] Lanzar **Hepein Official Website** completo
