@@ -165,7 +165,6 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=C015F7&multiline=true&width=435&lines=%F0%9F%93%8A+Estad%C3%ADsticas+de+GitHub)](https://git.io/typing-svg)
 <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api?username=Brashkie&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170em"/>
-<img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/top-langs/?username=Brashkie&langs_count=20&theme=tokyonight&hide_border=true" height="170em"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brashkie&theme=tokyonight&hide_border=true" width="48%"/>
 
