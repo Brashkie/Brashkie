@@ -213,7 +213,7 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 
 ## Mis lenguajes usados
 
-![Top Langs](https://github-readme-stats-orcin-psi-72.vercel.app/api/top-langs/?username=Brashkie&layout=pie)
+![Top Langs](https://github-readme-stats-orcin-psi-72.vercel.app/api/top-langs/?username=Brashkie&langs_count=20&theme=tokyonight&hide_border=true)
 
 ---
 
