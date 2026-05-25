@@ -31,10 +31,6 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
     <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ultra-parquet-converter&theme=midnight-purple&hide_border=true" alt="Ultra Parquet Converter"/>
   </a>
 
-  <a href="https://github.com/Brashkie/tt-search">
-    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=tt-search&theme=algolia&hide_border=true" alt="Tiktok Search"/>
-  </a>
-
   <a href="https://github.com/Brashkie/Avenix-Multi">
     <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=Avenix-Multi&theme=ambient_gradient&hide_border=true" alt="Avenix Multi"/>
   </a>
@@ -47,12 +43,24 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
     <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=HepeinBot-PRO&theme=holi&hide_border=true" alt="HepeinBot-PRO"/>
   </a>
 
-  <a href="https://github.com/Brashkie/ultra-scraper">
-    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ultra-scraper&theme=great-gatsby&hide_border=true" alt="ultra-scraper"/>
-  </a>
-
   <a href="https://github.com/Brashkie/HepeinBaileys">
     <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=HepeinBaileys&theme=apprentice&hide_border=true" alt="HepeinBaileys"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/ansimax">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ansimax&theme=radical&hide_border=true" alt="ansimax"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/media-core">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=media-core&theme=blue_navy&hide_border=true" alt="media-core"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/signalis-core">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=signalis-core&theme=merko&hide_border=true" alt="signalis-core"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/codewatch-pro">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=codewatch-pro&theme=github_dark&hide_border=true" alt="codewatch-pro"/>
   </a>
 </p>
 
