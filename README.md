@@ -71,17 +71,21 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 - Optimizado para análisis de datos masivos y pipelines de ETL
 - ![NPM Downloads](https://img.shields.io/npm/dt/ultra-parquet-converter)
 
-### 🔹 [TT-Search](https://www.npmjs.com/package/tt-search)
-**Herramienta avanzada para extracción y análisis de datos de TikTok**
-- Búsqueda y scraping de contenido TikTok
-- Análisis de tendencias y métricas
-- API simple y eficiente
+### 🔹 [ansimax](https://www.npmjs.com/package/ansimax)
+**Librería avanzada para terminales y CLI modernas**
+- Estilos ANSI avanzados y personalización de consola
+- Optimizada para rendimiento y compatibilidad multiplataforma
+- Ideal para herramientas CLI, logs y visualización profesional
+- Arquitectura moderna enfocada en velocidad y simplicidad
+- ![NPM Downloads](https://img.shields.io/npm/dt/ansimax)
 
-### 🔹 [NeuroForge](https://github.com/Brashkie/NeuroForge)
-**Framework de Deep Learning de nueva generación**
-- Construido con **Julia + C++** para máximo rendimiento
-- Integración perfecta con el ecosistema **NPM**
-- Combina potencia científica con simplicidad de desarrollo
+### 🔹 [@brashkie/signalis-core](https://www.npmjs.com/package/@brashkie/signalis-core)
+**Core avanzado para automatización, procesamiento y herramientas modernas**
+- Sistema modular y extensible
+- Diseñado para alto rendimiento y escalabilidad
+- Compatible con múltiples entornos Node.js
+- Base tecnológica para proyectos y ecosistemas avanzados
+- ![NPM Downloads](https://img.shields.io/npm/dt/@brashkie/signalis-core)
 
 <p align="center">
   <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="50%" height="8px"><br>
