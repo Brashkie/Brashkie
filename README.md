@@ -28,25 +28,31 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 </p>
 <p align="center">
   <a href="https://github.com/Brashkie/ultra-parquet-converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=ultra-parquet-converter&theme=midnight-purple" alt="Ultra Parquet Converter"/>
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ultra-parquet-converter&theme=tokyonight&hide_border=true" alt="Ultra Parquet Converter"/>
   </a>
+
   <a href="https://github.com/Brashkie/tt-search">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=tt-search&theme=algolia" alt="Tiktok Search"/>
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=tt-search&theme=tokyonight&hide_border=true" alt="Tiktok Search"/>
   </a>
+
   <a href="https://github.com/Brashkie/Avenix-Multi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=Avenix-Multi&theme=ambient_gradient" alt="Avenix Multi"/>
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=Avenix-Multi&theme=tokyonight&hide_border=true" alt="Avenix Multi"/>
   </a>
+
   <a href="https://github.com/Brashkie/module">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=module&theme=chartreuse-dark" alt="Module"/>
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=module&theme=tokyonight&hide_border=true" alt="Module"/>
   </a>
+
   <a href="https://github.com/Brashkie/HepeinBot-PRO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=HepeinBot-PRO&theme=holi" alt="HepeinBot-PRO"/>
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=HepeinBot-PRO&theme=tokyonight&hide_border=true" alt="HepeinBot-PRO"/>
   </a>
+
   <a href="https://github.com/Brashkie/ultra-scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=ultra-scraper&theme=great-gatsby" alt="ultra-scraper"/>
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ultra-scraper&theme=tokyonight&hide_border=true" alt="ultra-scraper"/>
   </a>
+
   <a href="https://github.com/Brashkie/HepeinBaileys">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brashkie&repo=HepeinBaileys&theme=apprentice" alt="HepeinBaileys"/>
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=HepeinBaileys&theme=tokyonight&hide_border=true" alt="HepeinBaileys"/>
   </a>
 </p>
 
