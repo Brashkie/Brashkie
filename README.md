@@ -169,6 +169,8 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brashkie&theme=tokyonight&hide_border=true" width="48%"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brashkie&theme=tokyo-night&hide_border=true" height="170em"/>
+
 </div>
 
 ---
