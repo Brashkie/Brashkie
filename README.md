@@ -94,7 +94,7 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 - Diseñado para aplicaciones escalables
 - ![NPM Downloads](https://img.shields.io/npm/dt/@brashkie/signalis)
 
-### 🔹 [@kryx/core](https://www.npmjs.com/package/@kryx/core)
+### 🔹 [@kryx/core](https://www.npmjs.com/package/@kryxjs/core)
 **Core multimedia moderno para procesamiento de audio, video e imágenes**
 - Arquitectura modular y extensible
 - Alto rendimiento y procesamiento eficiente
