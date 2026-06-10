@@ -64,28 +64,43 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
   </a>
 </p>
 
+### 🔹 [ansimax](https://www.npmjs.com/package/ansimax)
+**Framework moderno para terminales, CLI y futuras aplicaciones TUI**
+- ANSI styling, gradients, ASCII art y animaciones
+- Menús interactivos, tablas, árboles y layouts
+- Optimizado para rendimiento y compatibilidad multiplataforma
+- Base para futuras aplicaciones TUI avanzadas
+- ![NPM Downloads](https://img.shields.io/npm/dt/ansimax)
+
 ### 🔹 [Ultra Parquet Converter](https://www.npmjs.com/package/ultra-parquet-converter)
 **Conversor universal de alto rendimiento para Big Data**
-- Soporta múltiples formatos: CSV, XLSX, JSON, XML, TXT, LOG → Parquet
-- Arquitectura híbrida: **Node.js + Python + Apache Arrow**
-- Optimizado para análisis de datos masivos y pipelines de ETL
+- Soporta CSV, XLSX, JSON, XML, TXT y LOG → Parquet
+- Arquitectura híbrida: Node.js + Python + Apache Arrow
+- Optimizado para ETL y análisis de datos masivos
 - ![NPM Downloads](https://img.shields.io/npm/dt/ultra-parquet-converter)
-
-### 🔹 [ansimax](https://www.npmjs.com/package/ansimax)
-**Librería avanzada para terminales y CLI modernas**
-- Estilos ANSI avanzados y personalización de consola
-- Optimizada para rendimiento y compatibilidad multiplataforma
-- Ideal para herramientas CLI, logs y visualización profesional
-- Arquitectura moderna enfocada en velocidad y simplicidad
-- ![NPM Downloads](https://img.shields.io/npm/dt/ansimax)
 
 ### 🔹 [@brashkie/signalis-core](https://www.npmjs.com/package/@brashkie/signalis-core)
 **Core avanzado para automatización, procesamiento y herramientas modernas**
 - Sistema modular y extensible
 - Diseñado para alto rendimiento y escalabilidad
-- Compatible con múltiples entornos Node.js
-- Base tecnológica para proyectos y ecosistemas avanzados
+- Base tecnológica del ecosistema Signalis
 - ![NPM Downloads](https://img.shields.io/npm/dt/@brashkie/signalis-core)
+
+### 🔹 [@brashkie/signalis](https://www.npmjs.com/package/@brashkie/signalis)
+**Framework de automatización construido sobre Signalis Core**
+- APIs de alto nivel para automatización
+- Arquitectura modular y extensible
+- Integración con múltiples servicios y flujos de trabajo
+- Diseñado para aplicaciones escalables
+- ![NPM Downloads](https://img.shields.io/npm/dt/@brashkie/signalis)
+
+### 🔹 [@kryx/core](https://www.npmjs.com/package/@kryx/core)
+**Core multimedia moderno para procesamiento de audio, video e imágenes**
+- Arquitectura modular y extensible
+- Alto rendimiento y procesamiento eficiente
+- Base del ecosistema Kryx
+- Diseñado para herramientas multimedia de nueva generación
+- ![NPM Downloads](https://img.shields.io/npm/dt/@kryx/core)
 
 <p align="center">
   <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="50%" height="8px"><br>
