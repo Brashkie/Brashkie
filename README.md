@@ -100,7 +100,7 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 - Alto rendimiento y procesamiento eficiente
 - Base del ecosistema Kryx
 - Diseñado para herramientas multimedia de nueva generación
-- ![NPM Downloads](https://img.shields.io/npm/dt/@kryx/core)
+- ![NPM Downloads](https://img.shields.io/npm/dt/@kryxjs/core)
 
 <p align="center">
   <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="50%" height="8px"><br>
