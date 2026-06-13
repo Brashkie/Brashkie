@@ -23,12 +23,36 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 > *"La tecnología no debe dividir a los humanos, sino unirlos para alcanzar el siguiente nivel de existencia."*
 <br>
 <p align="center">
-  <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="50%" height="8px"><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=0600F7&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Proyectos+Destacados+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</p>
-<p align="center">
   <a href="https://github.com/Brashkie/ultra-parquet-converter">
     <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ultra-parquet-converter&theme=midnight-purple&hide_border=true" alt="Ultra Parquet Converter"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/ansimax">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ansimax&theme=radical&hide_border=true" alt="ansimax"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/signalis-core">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=signalis-core&theme=merko&hide_border=true" alt="signalis-core"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/kryx-core">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=kryx-core&theme=tokyonight&hide_border=true" alt="kryx-core"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/ws">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ws&theme=algolia&hide_border=true" alt="ws"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/WinsiBot">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=WinsiBot&theme=onedark&hide_border=true" alt="WinsiBot"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/ApexVision-Core">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ApexVision-Core&theme=vue-dark&hide_border=true" alt="ApexVision-Core"/>
+  </a>
+
+  <a href="https://github.com/Brashkie/codewatch-pro">
+    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=codewatch-pro&theme=github_dark&hide_border=true" alt="codewatch-pro"/>
   </a>
 
   <a href="https://github.com/Brashkie/Avenix-Multi">
@@ -45,22 +69,6 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 
   <a href="https://github.com/Brashkie/HepeinBaileys">
     <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=HepeinBaileys&theme=apprentice&hide_border=true" alt="HepeinBaileys"/>
-  </a>
-
-  <a href="https://github.com/Brashkie/ansimax">
-    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=ansimax&theme=radical&hide_border=true" alt="ansimax"/>
-  </a>
-
-  <a href="https://github.com/Brashkie/media-core">
-    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=media-core&theme=blue_navy&hide_border=true" alt="media-core"/>
-  </a>
-
-  <a href="https://github.com/Brashkie/signalis-core">
-    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=signalis-core&theme=merko&hide_border=true" alt="signalis-core"/>
-  </a>
-
-  <a href="https://github.com/Brashkie/codewatch-pro">
-    <img src="https://github-readme-stats-orcin-psi-72.vercel.app/api/pin/?username=Brashkie&repo=codewatch-pro&theme=github_dark&hide_border=true" alt="codewatch-pro"/>
   </a>
 </p>
 
