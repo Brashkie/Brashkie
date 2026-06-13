@@ -102,6 +102,14 @@ Actualmente estudiante de **Ingenieria Software en SENATI** y **Data Analyst**, 
 - Diseñado para herramientas multimedia de nueva generación
 - ![NPM Downloads](https://img.shields.io/npm/dt/@kryxjs/core)
 
+### 🔹 [@brashkie/ws](https://www.npmjs.com/package/@brashkie/ws)
+**Implementación moderna de WebSocket para Node.js**
+- Cliente y servidor WebSocket escritos en TypeScript
+- Arquitectura modular y extensible
+- Base para futuras variantes: ws-core, ws-native y ws-web
+- Diseñado para rendimiento, simplicidad y control total del protocolo
+- ![NPM Downloads](https://img.shields.io/npm/dt/@brashkie/ws)
+
 <p align="center">
   <img src="https://github.com/Brashkie/module/blob/main/download/line/animated/animated-line-000001.gif" width="50%" height="8px"><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&size=28&pause=1000&color=00E9F7&center=true&vCenter=true&width=435&lines=%F0%92%81%88+Hepein+Oficial+Ecosystem+%F0%92%81%88" alt="Typing SVG" /></a>
